@@ -1,9 +1,9 @@
-In this project, you have provided with a California dataset to answer the following questions. Before starting the project, please explore the dataset online also. All these questions are mandatory. It is a ‘must’ to give an introduction of the project. You must put comments after codes to explain the step. Each result must be explained after getting the result and figures. If you miss any of these, marks will be deducted. These steps are a must to write a good project. You must explain your project and features in the introduction section. Please explain which feature is nominal, ordinal, discrete or continuous.   
+In this project,I have provided with a California dataset to answer the following questions. Before starting the project, I explored the dataset online also. All these questions are mandatory. I gave an introduction of the project first. I also put comments after codes to explain the step.I explained each result after getting the result and figures. I also explained which feature is nominal, ordinal, discrete or continuous.   
 
 
 
 
-Please address the following questions:
+I addressed following questions leveraging advance Python, utilizing libraries like Numpy,Pandas,Matplotlib and Seaborn and High order functions like Lambda :
 
 
 
